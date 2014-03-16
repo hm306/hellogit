@@ -2,7 +2,6 @@ package hello;
 
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("Hello Java,via Eclipse on Windows!");
-		System.out.println("ƒwƒ[JavaB");
+		System.out.println("Hello Java, from Japan");
 	}
 }
